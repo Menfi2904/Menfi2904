@@ -1,5 +1,4 @@
-# 👩‍💻 About Me ⚡:
-<h1 align="center">Hi 👋, I'm Menfi Garcia</h1>
+<h1 align="center">👩‍💻 Hi 👋, I'm Menfi Garcia ⚡</h1>
 <h3 align="center">A passionate frontend developer from Honduras</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Express, MongoDB, Node.js**
